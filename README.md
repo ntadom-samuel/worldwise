@@ -1,22 +1,29 @@
 # Mapping Application
-This application allows users to keep track of the places they've visited through an interactive map and a user interface, implemented with a form
+This application allows users to keep track of the places they've visited through an interactive map and a user interface
 
 ## Libraries
 - leaflet
 - react-leaflet
-- react
+- json-server
+- react-router
 
 ## tools
-- ES6 Classes
-- Local Storage
-- Advanced DOM Manipulation
+- useReducer
+- Routes/Nested Routes
+- useNavigate
+- useMemo
+- useCallback
+- memo
+- profiler
 
 ## Concepts
-- ES6 Classes
-- Local Storage
-- Advanced DOM Manipulation
+- Context API
+- optimization: avoiding wasted re-renders
+- Programmatic Navigation
+- Lazy loading
 
 ## APIS
+- Suspense 
 - Geolocation
 
 ## Features
@@ -25,11 +32,7 @@ This application allows users to keep track of the places they've visited throug
 - [x] Interactive
 
 ## Video
-<div>
-    <a href="https://www.loom.com/share/a26a00e184904d8e925f00a9e5885534">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/a26a00e184904d8e925f00a9e5885534-f32492216825386a-full-play.gif">
-    </a>
-  </div>
+
 
 ## Notes
 All credits to <a href="https://www.udemy.com/course/the-complete-javascript-course/?couponCode=24T7MT123024">The Complete JavaScript Course 

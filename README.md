@@ -1,5 +1,5 @@
-# Mapping Application
-This application allows users to keep track of the places they've visited through an interactive map and a user interface
+# Description
+This mapping application allows users to keep track of the places they've visited through an interactive map and a user interface
 
 ## Libraries
 - leaflet
@@ -39,4 +39,5 @@ This application allows users to keep track of the places they've visited throug
   </div>
 
 ## Notes
-All credits to <a href="https://www.udemy.com/course/the-complete-javascript-course/?couponCode=24T7MT123024">The Complete JavaScript Course 
+All credits to <a href="https://www.udemy.com/course/the-ultimate-react-course/">The Ultimate React Course 2024: React, Next.js, Redux & More
+</a>. 
